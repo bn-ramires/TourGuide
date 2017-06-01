@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!--Information about different tour locations in the app.-->
+    <string name="temple_bar">There aren\'t very many places in Dublin where you can try a
+        traditional feast of Oysters and Guinness! Or if you want a quick bite to eat, before you
+        head off to do the sights of Dublin, drop in and grab a sandwich and refreshments!</string>
+    <string name="buskers">Situated in the heart of Temple Bar, offers a bright and airy
+        decor and a fun and lively atmosphere. Big Screens and food served all day makes Buskers a
+        perfect venue for that match you can\'t miss or that after work party you have to go to.</string>
+    <string name="phoenix_park">Phoenix Park lies 3 km west of the city centre, north of the
+        River Liffey. Its 11 km perimeter wall encloses 707 hectares it is also one of the largest
+        enclosed recreational spaces within any European capital city. It includes large areas of
+        grassland and tree-lined avenues, and since the 17th century has been home to a herd of
+        wild fallow deer.</string>
+    <string name="SSgreen_park">St Stephen\'s Green is a city centre public park. Its current
+        landscape was designed by William Sheppard, which officially opened to the public on
+        Tuesday, 27 July 1880. The park is adjacent to one of Dublin\'s main shopping streets and to
+        a shopping centre named for it, while on its surrounding streets are the offices of a
+        number of public bodies and the city terminus of one of Dublin\'s LUAS tram lines.</string>
+    <string name="tcd">Described in the Annals of Ulster in 1007 as \“the most precious object in
+        the western world\”, the cultural and historical value of the Book of Kells has only
+        increased in the millennium since - this exquisite work of art has stood for 1,200 years
+        as the greatest example of medieval illumination. This tour starts by delving into its
+        rich ornamentation and explores its dense symbolism and meaning and its merit as an
+        artistic masterpiece. </string>
+    <string name="tour_1916">The tour offers an insight into the events that occurred in the
+        Dublin 4 locality during the 1916 Easter rebellion, an event which ultimately led to the
+        formation of a twenty six county Irish Republic. On the 24th of April 1916 Padraig Pearse,
+        having taken the General Post Office by force in Dublin\'s Sackville Street, (now o\'
+        Connell Street) read Poblacht na hEireann (Proclamation of an Irish Republic)
+        outside of the building.</string>
+    <string name="kilmainham_gaol">Kilmainham Gaol is a former prison in the city. It is now a museum
+        run by the Office of Public Works, an agency of the Government of Ireland. Many Irish
+        revolutionaries, including the leaders of the 1916 Easter Rising, were imprisoned and
+        executed in the prison by the British</string>
+    <string name="little_museum_of_dublin">As a civic museum for the city of Dublin, the Little Museum chronicles the
+        history of the city in the 20th century. It provides visitors with an intimate and
+        informative glimpse into life in Dublin during that time period. The Little Museum,
+        the “brainchild” of director Trevor White and curator Simon O\’Connor, was formed in
+        April 2011 and officially opened its doors to the public in October of the same year.
+        A registered charity, the museum is governed by a board that includes representatives of
+        Dublin City Council and Fáilte Ireland, the national tourism development authority.</string>
+
+    <string name="pub1">Temple Bar</string>
+    <string name="pub2">Buskers</string>
+    <string name="park2">St. Stephen\'s Green</string>
+    <string name="tour1">1916 Rising</string>
+    <string name="tour2">Book of Kells</string>
+    <string name="museum1">Kilmainham Gaol</string>
+    <string name="museum2">The Little Museum of Dublin</string>
+    <string name="park1">Phoenix Park</string>
+
+
+</resources>
